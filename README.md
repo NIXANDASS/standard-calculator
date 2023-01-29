@@ -144,8 +144,7 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
+![Screenshot from 2023-01-29 22-11-55](https://user-images.githubusercontent.com/118781418/215341055-6fcb9970-5dc8-4c43-8013-c073c6c4b439.png)
 
-![Screenshot from 2023-01-29 22-11-55](https://user-images.githubusercontent.com/118781418/215340949-a7770dda-23ad-4441-b946-ad1e801213ea.png)
 
-## Result:
 This program was executed successfully
